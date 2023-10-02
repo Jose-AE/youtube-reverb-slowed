@@ -1,0 +1,12 @@
+.reverb-button {
+  background-color: #4caf50; /* Green */
+  border-radius: 100%;
+  display: flex;
+  border-radius: 50%;
+  height: 100%;
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  cursor: pointer;
+}
